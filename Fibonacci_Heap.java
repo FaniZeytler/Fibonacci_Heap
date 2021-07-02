@@ -69,7 +69,7 @@ public class FibonacciHeap
     		this.start=newNode;
     		
     	}
-    	return newNode; // should be replaced by student code
+    	return newNode; 
     }
 
    /**
